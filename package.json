@@ -1,0 +1,23 @@
+{
+  "name": "es6-react-typescript",
+  "version": "0.0.1",
+  "description": "This is an es6, react and typescript learning project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codetimexyz/es6-react-typescript.git"
+  },
+  "keywords": [
+    "es6",
+    "react",
+    "typescript"
+  ],
+  "author": "xuwei",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/codetimexyz/es6-react-typescript/issues"
+  },
+  "homepage": "https://github.com/codetimexyz/es6-react-typescript#readme"
+}
